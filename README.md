@@ -1,5 +1,7 @@
 # Movie-Recommender-System
 
+## A content based movie recommender system using cosine similarity
+
 
 Input data files are available in the read-only "../input/" directory
 For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
